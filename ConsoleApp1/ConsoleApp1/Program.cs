@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello how are you!!!update from off!s!s!!!");
+            Console.Write("Hello how are you!!!update from ofdf!s!s!!!");
         }
     }
 }
